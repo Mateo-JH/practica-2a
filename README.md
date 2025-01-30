@@ -2,7 +2,7 @@
 Desarrollo del programa Hola Mundo en el
 lenguaje de programacion C.
 
-Use para ello el IDE de Microsoft VS communitu edition 2022.
+Use para ello el IDE de Microsoft VS community edition 2022.
 Si cuenta con algun otro entorno de desarrollo como visual studio code
 puede usarlo.
 Ademas del codigo desarrollado, 
